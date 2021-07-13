@@ -1,0 +1,16 @@
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ConsimpleTestTask.exe
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ConsimpleTestTask.deps.json
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ConsimpleTestTask.runtimeconfig.json
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ConsimpleTestTask.runtimeconfig.dev.json
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ConsimpleTestTask.dll
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ref\ConsimpleTestTask.dll
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\bin\Debug\net5.0\ConsimpleTestTask.pdb
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.dll
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ref\ConsimpleTestTask.dll
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.pdb
+C:\Users\Alexandr\Desktop\ConsimpleTestTask\obj\Debug\net5.0\ConsimpleTestTask.genruntimeconfig.cache
